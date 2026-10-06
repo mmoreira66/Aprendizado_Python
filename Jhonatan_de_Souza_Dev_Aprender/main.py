@@ -67,4 +67,3 @@ print(valor_hora)
 
 
 
-git add .
