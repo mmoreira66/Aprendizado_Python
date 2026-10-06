@@ -1,5 +1,5 @@
 # Variáveis
-# nome, celular, endereço ...
+# nome, celular, endereço ....
 
 velocidade_internet = 1024
 print (velocidade_internet)
